@@ -38,6 +38,6 @@ public class _00_IntroToRecursion {
     }
 
     public static void main(String[] args) {
-        countDown(5);
+        countDown(0);
     }
 }
